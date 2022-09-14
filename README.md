@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FagnerFreitasF1
-- 👀 I’m interested in IT, software development specifically, python study focused on back-end, but I intend to be a software engineer. 'In the future'
-- 🌱 I’m currently learning python, html and css.
-- 💞️ I’m looking to collaborate on learnning more.
+- 👀 I'm interested in IT, software development specifically, python study focused on back-end, but I intend to be a software engineer. 'In the future'
+- 🌱 I'm currently learning python, html and css.
+- 💞️ I'm looking for networking with other developers and exercising myself to learn more.
 - 📫 How to reach me ... link down below.
 
 <!---
